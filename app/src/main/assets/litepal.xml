@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="phoneDB">
+
+    </dbname>
+
+    <version value="5">
+
+    </version>
+
+    <list>
+        <mapping class="com.example.cc.netphone.PhoneDataBases"/>
+        <mapping class="com.example.cc.netphone.DepartmentDataBases"/>
+    </list>
+</litepal>

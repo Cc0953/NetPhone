@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">宇通通讯录</string>
+    <string name="PersonalInformation">个人信息</string>
+    <string name="name">姓名</string>
+    <string name="department">部门</string>
+    <string name="phone1">电话1</string>
+    <string name="phone2">电话2</string>
+    <string name="phone3">电话3</string>
+    <string name="updata">更新</string>
+    <string name="search">搜索</string>
+    <string name="promat_search">请输入搜索的姓名或电话号码</string>
+
+</resources>
