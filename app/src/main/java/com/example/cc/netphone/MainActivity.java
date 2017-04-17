@@ -1,12 +1,7 @@
 package com.example.cc.netphone;
 
-
-import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.Resources;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Environment;
@@ -14,24 +9,16 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
-
 import org.litepal.crud.DataSupport;
 import org.litepal.tablemanager.Connector;
-
 import android.support.v7.widget.Toolbar;
-
 import org.json.JSONException;
-
 import java.io.File;
 import java.util.Collections;
-
 import org.json.JSONObject;
-
 import java.io.IOException;
 import java.util.ArrayList;
-
 import org.json.JSONArray;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
